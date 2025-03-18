@@ -2,7 +2,7 @@
 <suite parallel="false" name="Suite">
   <test name="Test">
   	<parameter name = "Name" value = "Biswadip" />
-  	<parameter name = "Email" value = "studyonly48@gmail.com" />
+  	<parameter name = "Email" value = "study@gmail.com" />
   	<parameter name = "Pwd" value = "1234@qwer" />
   	<parameter name = "Mobile" value = "11111112" />
   	
