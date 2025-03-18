@@ -4,7 +4,7 @@
   	<parameter name = "Name" value = "Biswadip" />
   	<parameter name = "Email" value = "studyonly48@gmail.com" />
   	<parameter name = "Pwd" value = "1234@qwer" />
-  	<parameter name = "Mobile" value = "8967017503" />
+  	<parameter name = "Mobile" value = "11111112" />
   	
     <classes>
       <class name="com.project.RegistrationPage"/>
