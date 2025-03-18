@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <parameter name = "email" value = "Biswadipsaha503@gmail.com" />
+  <parameter name = "psd" value = "1234@qwer" />
+  <parameter name = "Name" value = "fds" />
+  <parameter name = "mobile" value = "222d342434" />
+  <parameter name = "email-sub" value = "ns@gmail.com" />
+  <parameter name = "pwd" value = "1234s@qwer" />
+    <classes>
+      
+      <class name="com.CalleyTeamsFullSetup.LoginPage" />
+      <class name="com.CalleyTeamsFullSetup.AgentPage" />
+      <class name="com.CalleyTeamsFullSetup.CSVUploadPage" />
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

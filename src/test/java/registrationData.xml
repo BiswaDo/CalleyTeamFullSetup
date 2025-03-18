@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  	<parameter name = "Name" value = "Biswadip" />
+  	<parameter name = "Email" value = "studyonly48@gmail.com" />
+  	<parameter name = "Pwd" value = "1234@qwer" />
+  	<parameter name = "Mobile" value = "8967017503" />
+  	
+    <classes>
+      <class name="com.project.RegistrationPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
